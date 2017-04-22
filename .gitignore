@@ -1,0 +1,8 @@
+#musicFile
+/music
+
+*.pyc
+*.so
+
+1*
+test*
